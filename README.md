@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hydilois
+- 👀 I’m interested in web developpment and new technologies
+- 🌱 I’m currently learning devops
+- 💞️ I’m looking to collaborate on large-scale projects
+- 📫 You can contact me with shydilaicard@gmail.com
